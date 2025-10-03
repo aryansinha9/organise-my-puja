@@ -10,7 +10,7 @@ export default function HeroSection() {
       className="relative flex items-start justify-center overflow-hidden pt-20"
       style={{
         height: '150vh',
-        backgroundImage: `url('https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68d6277441b52d9d15d56c78/4f3836914_darshan-patel-_PuNyi8tHR8-unsplash.jpg')`,
+        backgroundImage: `url('/background.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
